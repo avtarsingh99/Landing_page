@@ -1,0 +1,13 @@
+h1 {
+    font-family: sans-serif;
+    font-size: xx-large;
+    font-weight: 600;
+    color: blueviolet;
+    background-color: darkgray;
+    padding: 2%;
+}
+
+li {
+    color: darkmagenta;
+    padding: 1%;
+}
